@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<div align="center">
+  <p>Visitor Count</p>
+  <img src="https://profile-counter.deno.dev/ElNito7/count.svg" alt="Key:: Visitor's Count" />
+</div>
