@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/ElNito7/count.svg" alt="Visitor's Count" />
-</div>
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
