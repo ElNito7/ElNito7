@@ -26,13 +26,13 @@ Here are some ideas to get you started:
   </h1>
   
 
-  ### A Software Engineering student with strong interest in full-stack development, cybersecurity and cloud technologies!
+  ### Software Engineering student focused on backend and full-stack development.
   
-  - 🚀 I’ve developed real-world projects using Java, Spring Boot, React, Firebase, and PostgreSQL — from HR systems and incident reporting apps to science outreach platforms and web applications.
+  - Built real-world projects with Java, Spring Boot, React/React Native, and PostgreSQL/Supabase — from HR automation tools to social mobile apps with test-driven workflows.
 
-  - 🌱 Currently focused on improving my backend and software design skills, hoping to dive into cybersecurity soon as well.
+  - Big believer in testing before shipping. Currently deepening my skills in Jest/JUnit and backend architecture.
   
-  - 💡 Always learning, always building. I enjoy looking for ways to improve and write more clean, maintainable code for solving real problems through technology.
+  - Always building, always refining. I like writing clean code that actually holds up under real use.
   
   <!-- 📫 Let’s connect! You can reach me at kelo.camachoromero@gmail.com or on [LinkedIn](https://linkedin.com/in/arcamacho02) -->
 
